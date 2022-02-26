@@ -1,2 +1,2 @@
 # Prolog
-My training is Prolog
+My exercises in the Prolog
