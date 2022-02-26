@@ -1,6 +1,6 @@
 % 99 bottles of beer.
 % Remko Troncon <spike@kotnet.org>
-% Modified by <M@>
+% Modified by <drekzt>
 
 start :-
     bottles(99).
